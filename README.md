@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student at UET Lahore focused on building modern, responsive web applications. I specialize in creating clean user interfaces and efficient backend solutions, with hands-on experience in React, WordPress, and data management tools.<br><br>I've worked with technologies like React, WordPress, and modern frontend tools to build responsive websites and functional systems. Alongside development, I have experience in data management using Excel and automation techniques.<br><br>I'm currently looking for opportunities where I can contribute to real-world projects, improve my skills, and grow as a full-stack developer.
+I'm a Computer Science student at LLU Lahore focused on building modern, responsive web applications. I specialize in creating clean user interfaces and efficient backend solutions, with hands-on experience in React, WordPress, and data management tools.<br><br>I've worked with technologies like React, WordPress, and modern frontend tools to build responsive websites and functional systems. Alongside development, I have experience in data management using Excel and automation techniques.<br><br>I'm currently looking for opportunities where I can contribute to real-world projects, improve my skills, and grow as a full-stack developer.
 
 
 
